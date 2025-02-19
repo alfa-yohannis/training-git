@@ -1,5 +1,5 @@
 def main():
-  print("Hello, world!")
+  print("Hello, Smart Class!")
   result = sum(2, 2)
   print("The sum of 2 and 2 is " + str(result))
 
