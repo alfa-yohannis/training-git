@@ -1,6 +1,7 @@
 def main():
   print("Hello, world!")
-  print(sum(2, 2))
+  result = sum(2, 2)
+  print("The sum of 2 and 2 is " + str(result))
 
 def sum(a, b):
   return a + b
